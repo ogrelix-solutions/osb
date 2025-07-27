@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - Fullscreen secure window (kiosk-style)
 - Disables right-click, copy-paste, and developer tools
@@ -15,7 +15,7 @@
 
 ---
 
-## 🖥️ Compatibility
+## Compatibility
 
 | Platform | Supported | Notes |
 |----------|-----------|-------|
@@ -23,11 +23,11 @@
 | **macOS (Intel & Apple Silicon)** | ✅ Yes | DMG installer available |
 | **Linux (Debian-based)** | 🔶 Planned | AppImage/DEB support coming soon |
 
-> 💡 Windows build comes with an NSIS installer. macOS uses a signed `.dmg`. Protocol handling (`ogre://`) is auto-registered during installation.
+> Windows build comes with an NSIS installer. macOS uses a signed `.dmg`. Protocol handling (`ogre://`) is auto-registered during installation.
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Windows
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 🔐 Protocol Integration (`ogre://`)
+## Protocol Integration (`ogre://`)
 
 After installation, your system will recognize `ogre://` links and open them with Ogrelix Secure Browser.
 
